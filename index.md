@@ -6,6 +6,6 @@ description: "Lvntus Homepage"
 permalink: /
 ---
 
-# Hello World
+# Lvntus Research
 {: .fs-9 }
-Hello! We are Lvntus!
+Welcome to Lvntus Research: Your Hub for Insightful Security Research Exploration
